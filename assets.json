@@ -1,0 +1,91 @@
+{
+  "_chunk-C1kZITJT.js": {
+    "file": "assets/chunks/chunk-C1kZITJT.js",
+    "name": "languages"
+  },
+  "_chunk-CiHKjzH_.js": {
+    "file": "assets/chunks/chunk-CiHKjzH_.js",
+    "name": "Loading",
+    "imports": [
+      "_chunk-C1kZITJT.js"
+    ],
+    "css": [
+      "assets/static/src_assets_tufte-2d3b6576.CBUEynzK.css"
+    ]
+  },
+  "_src_assets_tufte-2d3b6576.CBUEynzK.css": {
+    "file": "assets/static/src_assets_tufte-2d3b6576.CBUEynzK.css",
+    "src": "_src_assets_tufte-2d3b6576.CBUEynzK.css"
+  },
+  "node_modules/vike/dist/esm/client/runtime-client-routing/entry.js": {
+    "file": "assets/entries/entry-client-routing.h-UXS9tp.js",
+    "name": "entries/entry-client-routing",
+    "src": "node_modules/vike/dist/esm/client/runtime-client-routing/entry.js",
+    "isEntry": true,
+    "imports": [
+      "_chunk-C1kZITJT.js"
+    ],
+    "dynamicImports": [
+      "virtual:vike:page-entry:client:/src/_error",
+      "virtual:vike:page-entry:client:/src/@document",
+      "virtual:vike:page-entry:client:/src/@document/@chapter",
+      "virtual:vike:page-entry:client:/src/index"
+    ]
+  },
+  "virtual:vike:page-entry:client:/src/@document": {
+    "file": "assets/entries/src_-document.DMJXHJcB.js",
+    "name": "entries/src/@document",
+    "src": "virtual:vike:page-entry:client:/src/@document",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_chunk-CiHKjzH_.js",
+      "_chunk-C1kZITJT.js"
+    ],
+    "css": [
+      "assets/static/src_assets_tufte-2d3b6576.CBUEynzK.css"
+    ]
+  },
+  "virtual:vike:page-entry:client:/src/@document/@chapter": {
+    "file": "assets/entries/src_-document_-chapter.2ARKEvN8.js",
+    "name": "entries/src/@document/@chapter",
+    "src": "virtual:vike:page-entry:client:/src/@document/@chapter",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_chunk-CiHKjzH_.js",
+      "_chunk-C1kZITJT.js"
+    ],
+    "css": [
+      "assets/static/src_assets_tufte-2d3b6576.CBUEynzK.css"
+    ]
+  },
+  "virtual:vike:page-entry:client:/src/_error": {
+    "file": "assets/entries/src_error.BjWyTOK9.js",
+    "name": "entries/src/_error",
+    "src": "virtual:vike:page-entry:client:/src/_error",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_chunk-CiHKjzH_.js",
+      "_chunk-C1kZITJT.js"
+    ],
+    "css": [
+      "assets/static/src_assets_tufte-2d3b6576.CBUEynzK.css"
+    ]
+  },
+  "virtual:vike:page-entry:client:/src/index": {
+    "file": "assets/entries/src_index.CDhW9OA_.js",
+    "name": "entries/src/index",
+    "src": "virtual:vike:page-entry:client:/src/index",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_chunk-CiHKjzH_.js",
+      "_chunk-C1kZITJT.js"
+    ],
+    "css": [
+      "assets/static/src_assets_tufte-2d3b6576.CBUEynzK.css"
+    ]
+  }
+}

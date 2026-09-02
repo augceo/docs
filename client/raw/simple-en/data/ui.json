@@ -1,0 +1,44 @@
+{
+  "acts": {
+    "short": "Acts",
+    "long": "Acts of Emergence",
+    "toc_link": "Acts of Emergence"
+  },
+  "edict": {
+    "short": "Edict",
+    "long": "Edict of Autonomy",
+    "toc_link": "Edict of Autonomy"
+  },
+  "manifesto": {
+    "short": "Manifesto",
+    "long": "Manifesto of Co-Liberation",
+    "toc_link": "Manifesto of Co-Liberation"
+  },
+  "blueprint": {
+    "short": "Drafts",
+    "long": "Drafts",
+    "toc_link": "Drafts"
+  },
+  "acts_sections": {
+    "glossary": "Glossary",
+    "agent": "Agent",
+    "concept": "Concept",
+    "ideas": "Ideas",
+    "ideator": "Ideator"
+  },
+  "nav": {
+    "en": "En",
+    "ru": "Ru",
+    "simple-en": "Simple En",
+    "simple-ru": "Simple Ru"
+  },
+  "mainpage": {
+    "title": "The Idealic Guidebook",
+    "description": "A collection of our main writings, explaining the big ideas in the Manifesto of Co-Liberation, the Edict of Autonomy, and our other foundational rules."
+  },
+  "company": {
+    "short": "Company",
+    "long": "Company",
+    "toc_link": "Company"
+  }
+}
